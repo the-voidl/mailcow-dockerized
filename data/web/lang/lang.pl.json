@@ -197,9 +197,7 @@
         "delete_now": "Usuń teraz",
         "delete_these_items": "Czy jesteś pewien, że chcesz usunąć następujące elementy?",
         "loading": "Proszę czekać...",
-        "restart_now": "Uruchom ponownie teraz",
-        "restart_sogo": "Uruchom ponownie SOGo",
-        "restart_sogo_info": "Niektóre zadania, np. dodanie domeny, wymagają ponownego uruchomienia SOGo, aby zastosować zmiany wprowadzone do Mailcow UI.<br><br><b>Important:</b> Bezpieczne, ponowne uruchomienie może chwilę potrwać, proszę czekać do zakończenia procesu."
+        "restart_now": "Uruchom ponownie teraz"
     },
     "header": {
         "administration": "Administrowanie",
@@ -331,9 +329,9 @@
         "set_tfa": "Ustaw metodę uwierzytelniania dwuetapowego",
         "tfa": "Uwierzytelnianie dwuetapowe",
         "totp": "Time-based OTP (Google Authenticator itd.)",
-        "u2f": "Uwierzytelnianie U2F",
-        "waiting_usb_auth": "<i>Czekam na urządzenie USB...</i><br><br>Wciśnij teraz przycisk na urządzeniu U2F USB.",
-        "waiting_usb_register": "<i> Czekam na urządzenie USB...</i><br><br>Wprowadź swoje  hasło powyżej i potwierdź rejestrację U2F przez naciśnięcie przycisku na urządzeniu U2F USB.",
+        "webauthn": "Uwierzytelnianie WebAuthn",
+        "waiting_usb_auth": "<i>Czekam na urządzenie USB...</i><br><br>Wciśnij teraz przycisk na urządzeniu WebAuthn USB.",
+        "waiting_usb_register": "<i> Czekam na urządzenie USB...</i><br><br>Wprowadź swoje  hasło powyżej i potwierdź rejestrację WebAuthn przez naciśnięcie przycisku na urządzeniu WebAuthn USB.",
         "yubi_otp": "Uwierzytelnianie Yubico OTP"
     },
     "user": {
@@ -375,7 +373,6 @@
         "messages": "wiadomości",
         "never": "Nigdy",
         "new_password": "Nowe hasło",
-        "new_password_description": "Wymagania: 6 znaków, litery i liczby.",
         "new_password_repeat": "Potwierdź hasło(powtórz)",
         "no_active_filter": "Brak aktywnego filtra",
         "no_record": "Brak rekordu",
